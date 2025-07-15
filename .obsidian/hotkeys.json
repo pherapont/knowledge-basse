@@ -1,0 +1,11 @@
+{
+  "command-palette:open": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}
